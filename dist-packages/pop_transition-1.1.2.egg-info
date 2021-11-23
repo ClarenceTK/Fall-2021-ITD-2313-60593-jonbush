@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pop-transition
+Version: 1.1.2
+Summary: Notify users if their Deb packages are no longer maintained so that they can transition to Flatpak versions instead.
+Home-page: https://github.com/pop-os/pop-transition
+Author: Ian Santopietro
+Author-email: ian@system76.com
+License: ISC
+Description: UNKNOWN
+Platform: UNKNOWN

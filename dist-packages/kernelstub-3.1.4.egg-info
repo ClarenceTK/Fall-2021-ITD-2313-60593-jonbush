@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: kernelstub
+Version: 3.1.4
+Summary: Automatic kernel efistub manager for UEFI
+Home-page: https://launchpad.net/kernelstub
+Author: Ian Santopietro
+Author-email: isantop@gmail.com
+License: ISC
+Description: UNKNOWN
+Platform: UNKNOWN
