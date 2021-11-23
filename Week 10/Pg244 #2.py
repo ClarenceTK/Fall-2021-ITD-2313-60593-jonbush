@@ -1,4 +1,3 @@
-import turtle
 import random
 
 
@@ -17,7 +16,6 @@ def cCurve(t, x1, y1, x2, y2, level):
         ym = (x2 + y1 + y2 - x1) / 2
         cCurve(t, x1, y1, xm, ym, level - 1)
         cCurve(t, xm, ym, x2, y2, level - 1)
-
 def main():
     level = int(input("Enter the level (0 or greater): "))
     t = turtle.Turtle()
